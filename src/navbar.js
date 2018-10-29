@@ -4,7 +4,7 @@ import './Navbar.css'
 class Navbar extends Component {
     render() {
         return(
-            <div className = "navbar">
+            <div className = "Navbar">
                 Navbar
             </div>
         )
